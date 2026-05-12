@@ -39,4 +39,3 @@ STEP 3
 Run this command >>>>>>
 
 git clone https://github.com/Skyghost12/Riddlesbysky.git
-
