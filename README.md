@@ -38,4 +38,4 @@ STEP 2
 STEP 3
 Run this command >>>>>>
 
-git clone https://github.com/Skyghost12/developer.git
+git clone https://github.com/Skyghost12/developer.git](https://github.com/Skyghost12/Apple_developer.git 
