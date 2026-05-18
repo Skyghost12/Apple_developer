@@ -27,7 +27,7 @@ and allows add comments since lot of people are working on it
 STEP 1
 1. Go to the Git Repository on github
 2. click on code 
-3. copy the HTTPS link ===== https://github.com/Skyghost12/Riddlesbysky.git
+3. copy the HTTPS link ===== https://github.com/Skyghost12/developer.git
 
 
 STEP 2
@@ -38,4 +38,4 @@ STEP 2
 STEP 3
 Run this command >>>>>>
 
-git clone https://github.com/Skyghost12/Riddlesbysky.git
+git clone https://github.com/Skyghost12/developer.git
